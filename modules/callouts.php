@@ -4,7 +4,7 @@
    <div class="row">
       <div class="col-md-7 col-md-5">
         <div class="callout-box">
-           Our Services
+          Lorem Ipsum
         </div>
       </div>
    </div>
